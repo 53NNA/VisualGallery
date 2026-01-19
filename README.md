@@ -41,6 +41,8 @@
 ### Mid-Century Modern
 <img src="https://github.com/user-attachments/assets/1478bb76-e620-4315-b979-f4e6382f716e" width="600">
 
+Pencil on heavyweight paper
+
 ## Pokemon
 ### 3D Pokeball Animation
 https://github.com/user-attachments/assets/06c24517-dc04-455e-95ee-ea605f9feaa1
