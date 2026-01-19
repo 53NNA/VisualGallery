@@ -61,29 +61,39 @@ Designed and rendered on Fusion 360
 ### N Card
 <img src="https://github.com/user-attachments/assets/66013133-4be1-4198-8930-6053c7323a64" width="400">
 
-Designed on IbisPaintX on phone with finger
+Designed on IbisPaintX (mobile app)
 
 ## Super Mario
-
-Food colouring on bristol board
 
 ### Mario
 <img src="https://github.com/user-attachments/assets/0cf802e9-f2b0-4e98-af1a-061f61add2e1" width="400">
 
+Food colouring on bristol board
+
 ### Luigi
 <img src="https://github.com/user-attachments/assets/62654224-d055-4bae-9e0c-b93acb4103aa" width="400">
+
+Food colouring on bristol board
 
 ### Yoshi
 <img src="https://github.com/user-attachments/assets/f4bec60a-3e29-4fc0-b805-724ff60d9b59" width="400">
 
+Food colouring on bristol board
+
 ### Shy Guy
 <img src="https://github.com/user-attachments/assets/5e6cea14-bdab-4ac2-9772-bf9867f7b01a" width="400">
+
+Food colouring on bristol board
 
 ### Fire Flower
 <img src="https://github.com/user-attachments/assets/49449474-ee79-4530-aac0-b2418163cf81" width="400">
 
+Food colouring on bristol board
+
 ### 1-Up
 <img src="https://github.com/user-attachments/assets/e76449a4-e4aa-4630-a551-2fd156badc08" width="400">
+
+Food colouring on bristol board
 
 ## Holiday Season
 
@@ -100,44 +110,71 @@ Food colouring on bristol board
 ### Welcome to Hogwarts
 <img src="https://github.com/user-attachments/assets/3073ed53-d853-4d48-9504-af6eca90175c" width="400">
 
+Pastel and gel pen on bristol board
+
 ## Nature
 ### Deep in the Grass
 <img src="https://github.com/user-attachments/assets/c627c0f0-f69d-4ea6-bb16-d463446ca448" width="600">
 
+Engraving on artistic scratch paper
+
 ### Deep in the Jungle
 <img src="https://github.com/user-attachments/assets/7eb6dd99-acc2-44c4-9c69-6e6bf19f1e47" width="600">
+
+Watercolour on specialized watercolour paper
 
 ### California's Beach
 <img src="https://github.com/user-attachments/assets/cef38322-44ad-4c74-b151-33ef8b545237" width="600">
 
+Pastel on bristol board
+
 ### Miami's Beach
 <img src="https://github.com/user-attachments/assets/f2616a99-0bef-4c6e-a7b2-b2529579f7c1" width="400">
+
+Pastel on bristol board
 
 ### Rising Sun Pixel Art
 <img src="https://github.com/user-attachments/assets/b2a6673e-8e40-4011-9051-3af0044faad8" width="400">
 
+Designed on 8Bit Painter (mobile app)
+
 ### Aurora Borealis Pixel Art
 <img src="https://github.com/user-attachments/assets/30ab5a0a-a634-4a8d-9e80-57c0e5f76120" width="400">
+
+Designed on 8Bit Painter (mobile app)
 
 ### Spring Part 1 Pixel Art
 <img src="https://github.com/user-attachments/assets/1fd04f70-6e42-4800-9325-b4ef79283128" width="400">
 
+Designed on 8Bit Painter (mobile app)
+
 ### Spring Part 2 Pixel Art
 <img src="https://github.com/user-attachments/assets/c7890149-11ff-420b-9fd1-1ca22126657c" width="400">
+
+Designed on 8Bit Painter (mobile app)
 
 ### Autumn Part 1 Pixel Art
 <img src="https://github.com/user-attachments/assets/fcbafe6c-0105-4876-992a-fc7b4cd621b9" width="400">
 
+Designed on 8Bit Painter (mobile app)
+
 ### Autumn Part 2 Pixel Art
 <img src="https://github.com/user-attachments/assets/67938cc6-1d19-4f44-98d4-f0800bfe8374" width="400">
+
+Designed on 8Bit Painter (mobile app)
 
 ## Crafts
 ### 3D-Printed Sea Shell
 <img src="https://github.com/user-attachments/assets/ffd6a63c-2c35-4eee-9eae-c270eef2fe4a" width="400">
 
+Designed on Blender
+
 ### Handcrafted Mango
 <img src="https://github.com/user-attachments/assets/b9e855c2-8bc5-4380-9a91-af07e0344567" width="400">
+
+Acyrlic paint and lacquer on felt
 
 ### Crochet Pineapple Pillow
 <img src="https://github.com/user-attachments/assets/8a5c7375-7800-4393-892b-874ac7501c9f" width="400">
 
+Cross-stitch on aida fabric
