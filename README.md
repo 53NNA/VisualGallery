@@ -1,5 +1,41 @@
 # Table of Contents
-- [3D Pokeball Animation](#3D-Pokeball-Animation)
+- [Architecture](#Architecture)
+  - [Mid-Century Modern](#Mid-Century-Modern)
+ 
+- [Pokemon](#Pokemon)
+  - [3D Pokeball Animation](#3D-Pokeball-Animation)
+  - [N Card](#N-Card)
+ 
+- [Super Mario](#Super-Mario)
+  - [Mario](#Mario)
+  - [Luigi](#Luigi)
+  - [Yoshi](#Yoshi)
+  - [Shy Guy](#Shy-Guy)
+  - [Fire Flower](#Fire-Flower)
+  - [1-Up](#1-Up)
+ 
+- [Holiday Season](#Holiday-Season)
+  - [John McCLane](#John-McCLane)
+  - [Holly McCLane](#Holly-McCLane)
+  - [Candy McCLane](#Candy-McCLane)
+ 
+- [Nature](#Nature)
+  - [Deep in the Grass](#Deep-in-the-Grass)
+  - [Deep in the Jungle](#Deep-in-the-Jungle)
+  - [California's Beach](#California's-Beach)
+  - [Miami's Beach](#Miami's-Beach)
+  - [Rising Sun Pixel Art](#Rising-Sun-Pixel-Art)
+  - [Aurora Borealis Pixel Art](#Aurora-Borealis-Pixel-Art)
+  - [Spring Part 1 Pixel Art](#Spring-Part-1-Pixel-Art)
+  - [Spring Part 2 Pixel Art](#Spring-Part-2-Pixel-Art)
+  - [Autumn Part 1 Pixel Art](#Autumn-Part-1-Pixel-Art])
+  - [Autumn Part 2 Pixel Art](#Autumn-Part-2-Pixel-Art)
+ 
+- [Crafts](#Crafts)
+  - [3D-Printed Sea Shell](#3D-Printed-Sea-Shell)
+  - [Handcrafted Mango](#Handcrafted-Mango)
+  - [Crochet Pineapple Pillow](#Crochet-Pineapple-Pillow)
+
 
 ## Architecture
 ### Mid-Century Modern
@@ -50,7 +86,6 @@ https://github.com/user-attachments/assets/06c24517-dc04-455e-95ee-ea605f9feaa1
 ## Nature
 ### Deep in the Grass
 <img src="https://github.com/user-attachments/assets/c627c0f0-f69d-4ea6-bb16-d463446ca448" width="600">
-
 
 ### Deep in the Jungle
 <img src="https://github.com/user-attachments/assets/7eb6dd99-acc2-44c4-9c69-6e6bf19f1e47" width="600">
