@@ -1,6 +1,7 @@
 # Table of Contents
 - [Architecture](#Architecture)
   - [Mid-Century Modern](#Mid-Century-Modern)
+  - [Showa-Era Urban](#Showa-Era-Urban)
     
 - [Pokemon](#Pokemon)
   - [3D Pokeball Animation](#3D-Pokeball-Animation)
@@ -15,7 +16,7 @@
   - [1-Up](#1-Up)
  
 - [Holiday Season](#Holiday-Season)
-  - [John McCLane](#John-McCLane)
+  - [John McClane](#John-McClane)
   - [Holly McCLane](#Holly-McCLane)
   - [Candy McCLane](#Candy-McCLane)
  
@@ -30,6 +31,11 @@
   - [Spring Part 2 Pixel Art](#Spring-Part-2-Pixel-Art)
   - [Autumn Part 1 Pixel Art](#Autumn-Part-1-Pixel-Art])
   - [Autumn Part 2 Pixel Art](#Autumn-Part-2-Pixel-Art)
+  - [Common Fly](#Common-Fly)
+
+- [Mara](#Mara)
+  - [Mara Walking](#Mara-Walking)
+  - [Mara Smiling](#Mara-Smiling)
  
 - [Crafts](#Crafts)
   - [3D-Printed Sea Shell](#3D-Printed-Sea-Shell)
@@ -43,14 +49,23 @@
 
 Pencil on heavyweight paper
 
+### Mid-Century Modern
+
+
 ## Pokemon
 ### 3D Pokeball Animation
 https://github.com/user-attachments/assets/06c24517-dc04-455e-95ee-ea605f9feaa1
 
+Designed and rendered on Fusion 360
+
 ### N Card
 <img src="https://github.com/user-attachments/assets/66013133-4be1-4198-8930-6053c7323a64" width="400">
 
+Designed on IbisPaintX on phone with finger
+
 ## Super Mario
+
+Food colouring on bristol board
 
 ### Mario
 <img src="https://github.com/user-attachments/assets/0cf802e9-f2b0-4e98-af1a-061f61add2e1" width="400">
