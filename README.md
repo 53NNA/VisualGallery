@@ -1,7 +1,7 @@
 # Table of Contents
 - [Architecture](#Architecture)
   - [Mid-Century Modern](#Mid-Century-Modern)
-    Pencil on heavyweight paper
+    
 - [Pokemon](#Pokemon)
   - [3D Pokeball Animation](#3D-Pokeball-Animation)
   - [N Card](#N-Card)
