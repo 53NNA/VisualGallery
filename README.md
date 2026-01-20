@@ -61,10 +61,12 @@
 ### Mid-Century Modern
 <img src="https://github.com/user-attachments/assets/1478bb76-e620-4315-b979-f4e6382f716e" width="600">
 
-Pencil on heavyweight paper
+0.5 lead on heavyweight paper
 
 ### Showa-Era Urban
 <img src="https://github.com/user-attachments/assets/656a0c37-869c-4de2-84a6-0c63b1cc15a7" width="600">
+
+0.5 lead and Studio markers on heavyweight paper
 
 ## Pokemon
 ### 3D Pokeball Animation
@@ -115,14 +117,22 @@ Food colouring on bristol board
 ### John McClane
 <img src="https://github.com/user-attachments/assets/db486fbb-1e19-4378-89e1-e2674f534776" width="400">
 
+0.3 and 0.5 lead on printer paper
+
 ### Holly McClane
 <img src="https://github.com/user-attachments/assets/2a14e1d6-64be-4dbb-a04a-adbf7113048a" width="600">
+
+Watercolour markers on specialized watercolour paper
 
 ### Candy McClane
 <img src="https://github.com/user-attachments/assets/cb737299-4a25-428a-b5e2-abb05db2b491" width="400">
 
+Watercolour markers on specialized watercolour paper
+
 ### Berry McClane
 <img src="https://github.com/user-attachments/assets/c867f1b4-4def-4dea-b26e-fa32853dc9cb" width="400">
+
+Watercolour markers on specialized watercolour paper
 
 ## Harry Potter
 ### Welcome to Hogwarts
@@ -184,13 +194,19 @@ Designed on 8Bit Painter (mobile app)
 ### Common Fly
 <img src="https://github.com/user-attachments/assets/8580467f-bfb0-4e0f-929d-443c3f820dfa" width="400">
 
+Pastel on heavyweight paper
+
 ## Mara
 
 ### Mara Walking
 <img src="https://github.com/user-attachments/assets/5d25fe83-7b03-4a70-a118-9b4931f2aa45" width="400">
 
+Watercolour on specialized watercolour paper
+
 ### Mara Smiling
 <img src="https://github.com/user-attachments/assets/0413b90b-0264-4de3-b0b4-4cacfc39f156" width="400">
+
+0.5 lead on printer paper
 
 ## Crafts
 ### 3D-Printed Sea Shell
@@ -212,27 +228,43 @@ Cross-stitch on aida fabric
 ### Halloween
 <img src="https://github.com/user-attachments/assets/b031b469-74c5-46d3-bbc5-e65950383b77" width="400">
 
+Studio (dollar store) markers on printer paper
+
 ### Bleach
 
 <img src="https://github.com/user-attachments/assets/7f41164d-b8dd-4e40-8d76-4ddcf0575e03" width="400">
+
+Studio (dollar store) markers on printer paper
 
 ### Good Fortune
 
 <img src="https://github.com/user-attachments/assets/7c627708-e701-40dd-a844-236663532712" width="400">
 
+Studio (dollar store) markers on printer paper
+
 ### Project Sekai
 <img src="https://github.com/user-attachments/assets/2c7a9166-8dc5-40b2-9952-1234e9b1fea2" width="400">
 
+Studio (dollar store) markers on printer paper
+
 ### Triage
 <img src="https://github.com/user-attachments/assets/02e2afc8-30cc-4c5f-8756-6400e1fe73c1" width="400">
+
+Studio (dollar store) markers on printer paper
 
 ## Skies on Jackets
 ### Starry Sky
 <img src="https://github.com/user-attachments/assets/745666fd-bc55-4207-922a-7b4cbe5f061d" width="400">
 
+Watercolour and gel pen on cardboard
+
 ### Snowfall
 <img src="https://github.com/user-attachments/assets/1334f660-d205-4346-9e62-c9c12b2d8e20" width="400">
+
+Watercolour and gel pen on cardboard
 
 ## Prismacolour
 ### Various Characters
 <img src="https://github.com/user-attachments/assets/9672b8f3-2cb5-4e62-86ce-eaff41ea98f5" width="400">
+
+Prismacolour and gel pen on printer paper
