@@ -58,15 +58,16 @@
   - [Various Characters](#Various-Characters)
 
 ## Architecture
-### Mid-Century Modern
-<img src="https://github.com/user-attachments/assets/1478bb76-e620-4315-b979-f4e6382f716e" width="600">
-
-0.5 lead on heavyweight paper
 
 ### Showa-Era Urban
 <img src="https://github.com/user-attachments/assets/656a0c37-869c-4de2-84a6-0c63b1cc15a7" width="600">
 
 0.5 lead and Studio markers on heavyweight paper
+
+### Mid-Century Modern
+<img src="https://github.com/user-attachments/assets/1478bb76-e620-4315-b979-f4e6382f716e" width="600">
+
+0.5 lead on heavyweight paper
 
 ## Pokemon
 ### 3D Pokeball Animation
@@ -85,32 +86,32 @@ Designed on IbisPaintX (mobile app)
 ### Mario
 <img src="https://github.com/user-attachments/assets/0cf802e9-f2b0-4e98-af1a-061f61add2e1" width="400">
 
-Food colouring on bristol board
+Food colouring on bristol board (I didn't have watercolors)
 
 ### Luigi
 <img src="https://github.com/user-attachments/assets/62654224-d055-4bae-9e0c-b93acb4103aa" width="400">
 
-Food colouring on bristol board
+Food colouring on bristol board (I didn't have watercolors)
 
 ### Yoshi
 <img src="https://github.com/user-attachments/assets/f4bec60a-3e29-4fc0-b805-724ff60d9b59" width="400">
 
-Food colouring on bristol board
+Food colouring on bristol board (I didn't have watercolors)
 
 ### Shy Guy
 <img src="https://github.com/user-attachments/assets/5e6cea14-bdab-4ac2-9772-bf9867f7b01a" width="400">
 
-Food colouring on bristol board
+Food colouring on bristol board (I didn't have watercolors)
 
 ### Fire Flower
 <img src="https://github.com/user-attachments/assets/49449474-ee79-4530-aac0-b2418163cf81" width="400">
 
-Food colouring on bristol board
+Food colouring on bristol board (I didn't have watercolors)
 
 ### 1-Up
 <img src="https://github.com/user-attachments/assets/e76449a4-e4aa-4630-a551-2fd156badc08" width="400">
 
-Food colouring on bristol board
+Food colouring on bristol board (I didn't have watercolors)
 
 ## Holiday Season
 
