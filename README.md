@@ -79,7 +79,7 @@ Designed and rendered on Fusion 360
 <img src="https://github.com/user-attachments/assets/66013133-4be1-4198-8930-6053c7323a64" width="400">
 <img src="https://github.com/user-attachments/assets/c787173a-660a-4992-82e8-901fd95527ae" width="400">
 
-Designed on IbisPaintX (mobile app)
+Designed in IbisPaintX (mobile app)
 
 ## Super Mario
 
@@ -165,32 +165,32 @@ Pastel on bristol board
 ### Rising Sun Pixel Art
 <img src="https://github.com/user-attachments/assets/b2a6673e-8e40-4011-9051-3af0044faad8" width="400">
 
-Designed on 8Bit Painter (mobile app)
+Designed in 8Bit Painter (mobile app)
 
 ### Aurora Borealis Pixel Art
 <img src="https://github.com/user-attachments/assets/30ab5a0a-a634-4a8d-9e80-57c0e5f76120" width="400">
 
-Designed on 8Bit Painter (mobile app)
+designed in 8Bit Painter (mobile app)
 
 ### Spring Part 1 Pixel Art
 <img src="https://github.com/user-attachments/assets/1fd04f70-6e42-4800-9325-b4ef79283128" width="400">
 
-Designed on 8Bit Painter (mobile app)
+designed in 8Bit Painter (mobile app)
 
 ### Spring Part 2 Pixel Art
 <img src="https://github.com/user-attachments/assets/c7890149-11ff-420b-9fd1-1ca22126657c" width="400">
 
-Designed on 8Bit Painter (mobile app)
+designed in 8Bit Painter (mobile app)
 
 ### Autumn Part 1 Pixel Art
 <img src="https://github.com/user-attachments/assets/fcbafe6c-0105-4876-992a-fc7b4cd621b9" width="400">
 
-Designed on 8Bit Painter (mobile app)
+designed in 8Bit Painter (mobile app)
 
 ### Autumn Part 2 Pixel Art
 <img src="https://github.com/user-attachments/assets/67938cc6-1d19-4f44-98d4-f0800bfe8374" width="400">
 
-Designed on 8Bit Painter (mobile app)
+designed in 8Bit Painter (mobile app)
 
 ### Common Fly
 <img src="https://github.com/user-attachments/assets/8580467f-bfb0-4e0f-929d-443c3f820dfa" width="400">
@@ -213,7 +213,7 @@ Watercolour on specialized watercolour paper
 ### 3D-Printed Sea Shell
 <img src="https://github.com/user-attachments/assets/ffd6a63c-2c35-4eee-9eae-c270eef2fe4a" width="400">
 
-Designed on Blender
+designed in Blender
 
 ### Handcrafted Mango
 <img src="https://github.com/user-attachments/assets/b9e855c2-8bc5-4380-9a91-af07e0344567" width="400">
