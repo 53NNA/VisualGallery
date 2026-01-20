@@ -44,10 +44,18 @@
   - [Crochet Pineapple Pillow](#Crochet-Pineapple-Pillow)
 
 - [Line-Art](#Line-Art)
- - [Halloween](#Halloween)
- - [Bleach](#Bleach)
- - [Good Fortune](#Good-Fortune)
- - Good Fortune
+  - [Halloween](#Halloween)
+  - [Bleach](#Bleach)
+  - [Good Fortune](#Good-Fortune)
+  - [Project Sekai](#Project-Sekai)
+  - [Triage](#Triage)
+
+-[Skies on Jackets](#Skies-on-Jackets)
+  - [Starry Sky](#Starry-Sky)
+  - [Snowfall](#Snowfall)
+
+-[Prismacolour](#Prismacolour)
+  - [Various Characters](#Various-Characters)
 
 ## Architecture
 ### Mid-Century Modern
@@ -56,7 +64,7 @@
 Pencil on heavyweight paper
 
 ### Showa-Era Urban
-
+<img src="https://github.com/user-attachments/assets/656a0c37-869c-4de2-84a6-0c63b1cc15a7" width="600">
 
 ## Pokemon
 ### 3D Pokeball Animation
@@ -104,14 +112,17 @@ Food colouring on bristol board
 
 ## Holiday Season
 
-### John McCLane
+### John McClane
 <img src="https://github.com/user-attachments/assets/db486fbb-1e19-4378-89e1-e2674f534776" width="400">
 
-### Holly McCLane
+### Holly McClane
 <img src="https://github.com/user-attachments/assets/2a14e1d6-64be-4dbb-a04a-adbf7113048a" width="600">
 
-### Candy McCLane
+### Candy McClane
 <img src="https://github.com/user-attachments/assets/cb737299-4a25-428a-b5e2-abb05db2b491" width="400">
+
+### Berry McClane
+<img src="https://github.com/user-attachments/assets/c867f1b4-4def-4dea-b26e-fa32853dc9cb" width="400">
 
 ## Harry Potter
 ### Welcome to Hogwarts
@@ -170,10 +181,13 @@ Designed on 8Bit Painter (mobile app)
 
 Designed on 8Bit Painter (mobile app)
 
+### Common Fly
+<img src="https://github.com/user-attachments/assets/8580467f-bfb0-4e0f-929d-443c3f820dfa" width="400">
+
 ## Mara
 
 ### Mara Walking
-<img src="https://github.com/user-attachments/assets/67938cc6-1d19-4f44-98d4-f0800bfe8374" width="400">
+<img src="https://github.com/user-attachments/assets/5d25fe83-7b03-4a70-a118-9b4931f2aa45" width="400">
 
 ### Mara Smiling
 <img src="https://github.com/user-attachments/assets/0413b90b-0264-4de3-b0b4-4cacfc39f156" width="400">
@@ -206,4 +220,19 @@ Cross-stitch on aida fabric
 
 <img src="https://github.com/user-attachments/assets/7c627708-e701-40dd-a844-236663532712" width="400">
 
+### Project Sekai
+<img src="https://github.com/user-attachments/assets/2c7a9166-8dc5-40b2-9952-1234e9b1fea2" width="400">
 
+### Triage
+<img src="https://github.com/user-attachments/assets/02e2afc8-30cc-4c5f-8756-6400e1fe73c1" width="400">
+
+## Skies on Jackets
+### Starry Sky
+<img src="https://github.com/user-attachments/assets/745666fd-bc55-4207-922a-7b4cbe5f061d" width="400">
+
+### Snowfall
+<img src="https://github.com/user-attachments/assets/1334f660-d205-4346-9e62-c9c12b2d8e20" width="400">
+
+## Prismacolour
+### Various Characters
+<img src="https://github.com/user-attachments/assets/9672b8f3-2cb5-4e62-86ce-eaff41ea98f5" width="400">
