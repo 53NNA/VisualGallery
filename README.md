@@ -50,11 +50,11 @@
   - [Project Sekai](#Project-Sekai)
   - [Triage](#Triage)
 
--[Skies on Jackets](#Skies-on-Jackets)
+- [Skies on Jackets](#Skies-on-Jackets)
   - [Starry Sky](#Starry-Sky)
   - [Snowfall](#Snowfall)
 
--[Prismacolour](#Prismacolour)
+- [Prismacolour](#Prismacolour)
   - [Various Characters](#Various-Characters)
 
 ## Architecture
