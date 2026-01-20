@@ -66,6 +66,7 @@ Designed and rendered on Fusion 360
 
 ### N Card
 <img src="https://github.com/user-attachments/assets/66013133-4be1-4198-8930-6053c7323a64" width="400">
+<img src="https://github.com/user-attachments/assets/c787173a-660a-4992-82e8-901fd95527ae" width="400">
 
 Designed on IbisPaintX (mobile app)
 
@@ -169,6 +170,14 @@ Designed on 8Bit Painter (mobile app)
 
 Designed on 8Bit Painter (mobile app)
 
+## Mara
+
+### Mara Walking
+<img src="https://github.com/user-attachments/assets/67938cc6-1d19-4f44-98d4-f0800bfe8374" width="400">
+
+### Mara Smiling
+<img src="https://github.com/user-attachments/assets/0413b90b-0264-4de3-b0b4-4cacfc39f156" width="400">
+
 ## Crafts
 ### 3D-Printed Sea Shell
 <img src="https://github.com/user-attachments/assets/ffd6a63c-2c35-4eee-9eae-c270eef2fe4a" width="400">
@@ -196,6 +205,5 @@ Cross-stitch on aida fabric
 ### Good Fortune
 
 <img src="https://github.com/user-attachments/assets/7c627708-e701-40dd-a844-236663532712" width="400">
-
 
 
