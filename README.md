@@ -45,7 +45,9 @@
 
 - [Line-Art](#Line-Art)
  - [Halloween](#Halloween)
- - 
+ - [Bleach](#Bleach)
+ - [Good Fortune](#Good-Fortune)
+ - Good Fortune
 
 ## Architecture
 ### Mid-Century Modern
@@ -186,5 +188,14 @@ Cross-stitch on aida fabric
 ## Line-Art
 ### Halloween
 <img src="https://github.com/user-attachments/assets/b031b469-74c5-46d3-bbc5-e65950383b77" width="400">
+
+### Bleach
+
+<img src="https://github.com/user-attachments/assets/7f41164d-b8dd-4e40-8d76-4ddcf0575e03" width="400">
+
+### Good Fortune
+
+<img src="https://github.com/user-attachments/assets/7c627708-e701-40dd-a844-236663532712" width="400">
+
 
 
