@@ -17,8 +17,9 @@
  
 - [Holiday Season](#Holiday-Season)
   - [John McClane](#John-McClane)
-  - [Holly McCLane](#Holly-McCLane)
-  - [Candy McCLane](#Candy-McCLane)
+  - [Holly McClane](#Holly-McClane)
+  - [Candy McClane](#Candy-McClane)
+  - [Berry McClane](#Berry-McClane)
  
 - [Nature](#Nature)
   - [Deep in the Grass](#Deep-in-the-Grass)
@@ -42,6 +43,9 @@
   - [Handcrafted Mango](#Handcrafted-Mango)
   - [Crochet Pineapple Pillow](#Crochet-Pineapple-Pillow)
 
+- [Line-Art](#Line-Art)
+ - [Halloween](#Halloween)
+ - 
 
 ## Architecture
 ### Mid-Century Modern
@@ -49,7 +53,7 @@
 
 Pencil on heavyweight paper
 
-### Mid-Century Modern
+### Showa-Era Urban
 
 
 ## Pokemon
@@ -178,3 +182,9 @@ Acyrlic paint and lacquer on felt
 <img src="https://github.com/user-attachments/assets/8a5c7375-7800-4393-892b-874ac7501c9f" width="400">
 
 Cross-stitch on aida fabric
+
+## Line-Art
+### Halloween
+<img src="https://github.com/user-attachments/assets/b031b469-74c5-46d3-bbc5-e65950383b77" width="400">
+
+
